@@ -6,7 +6,7 @@ let state = 0;
 const clearButton = document.querySelector("#clear");
 const numberButtons = document.querySelectorAll(".numberButton");
 const operatorButtons = document.querySelectorAll(".operatorButton");
-const display = document.querySelector("#display");
+const display = document.querySelector("#display-txt");
 
 let displayContent = ""
 
